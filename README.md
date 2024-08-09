@@ -13,7 +13,7 @@
 ![CI status](https://github.com/shenweichen/deepctr/workflows/CI/badge.svg)
 [![codecov](https://codecov.io/gh/shenweichen/DeepCTR/branch/master/graph/badge.svg)](https://codecov.io/gh/shenweichen/DeepCTR)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d4099734dc0e4bab91d332ead8c0bdd0)](https://www.codacy.com/gh/shenweichen/DeepCTR?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shenweichen/DeepCTR&amp;utm_campaign=Badge_Grade)
-[![Disscussion](https://img.shields.io/badge/chat-wechat-brightgreen?style=flat)](./README.md#DisscussionGroup)
+[![Discussion](https://img.shields.io/badge/chat-wechat-brightgreen?style=flat)](./README.md#DiscussionGroup)
 [![License](https://img.shields.io/github/license/shenweichen/deepctr.svg)](https://github.com/shenweichen/deepctr/blob/master/LICENSE)
 <!-- [![Gitter](https://badges.gitter.im/DeepCTR/community.svg)](https://gitter.im/DeepCTR/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) -->
 
@@ -86,7 +86,7 @@ If you find this code useful in your research, please cite it using the followin
 }
 ```
 
-## DisscussionGroup
+## DiscussionGroup
 
 - [Github Discussions](https://github.com/shenweichen/DeepCTR/discussions)
 - Wechat Discussions
